@@ -9,7 +9,7 @@ Solutions to some problems on Hackerrank.
     * [Python]
 
 # LANGUAGE PROFICIENCY
-## C
+# C
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|

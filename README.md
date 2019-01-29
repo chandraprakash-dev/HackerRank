@@ -13,3 +13,4 @@ Solutions to some problems on Hackerrank.
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
+| Introduction | Easy | "Hello World!" in C | HelloWorld.c |

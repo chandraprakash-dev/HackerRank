@@ -10,3 +10,6 @@ Solutions to some problems on Hackerrank.
 
 # LANGUAGE PROFICIENCY
 ## C
+
+| Subdomain | Difficulty | Challenge | Solution |
+|:--:|:--:|:--:|:--:|

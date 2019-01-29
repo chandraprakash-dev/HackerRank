@@ -3,7 +3,7 @@
 Solutions to some problems on Hackerrank.
 
 * [LANGUAGE PROFICIENCY](#language-proficiency)
-    * [C](##c)
+    * [C](#c)
     * [C++]
     * [Java]
     * [Python]

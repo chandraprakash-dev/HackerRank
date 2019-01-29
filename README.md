@@ -3,5 +3,10 @@
 Solutions to some problems on Hackerrank.
 
 * [LANGUAGE PROFICIENCY](#language-proficiency)
+    * [C](##c)
+    * [C++]
+    * [Java]
+    * [Python]
 
 # LANGUAGE PROFICIENCY
+## C

@@ -1,5 +1,5 @@
 # HackerRank
-![My hackerrank profile](../images/HackerRankLogo.svg?raw=true)Solutions to problems on Hacker Rank with detailed explanations. 
+![Alt text](images/HackerRankLogo.svg)
 
 * [LANGUAGE PROFICIENCY](#language-proficiency)
 

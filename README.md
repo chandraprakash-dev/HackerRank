@@ -13,4 +13,4 @@ Solutions to some problems on Hackerrank.
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
-| Introduction | Easy | "Hello World!" in C | HelloWorld.c |
+| Introduction | Easy | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [HelloWorld.c](LANGUAGE%20PROFICIENCY/C/Introduction/HelloWorld.c) |

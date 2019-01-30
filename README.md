@@ -20,11 +20,13 @@ Solutions to some problems on Hackerrank.
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
+| Introduction | Easy | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [SayHelloWorldWithCPlusPlus.cpp]( LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/SayHelloWorldWithCPlusPlus.cpp)
 
 # Java
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
+| Introduction | Easy | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |[WelcomeToJava.java](LANGUAGE%20PROFICIENCY/Java/Introduction/WelcomeToJava.java)
 
 # Python
 

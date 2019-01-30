@@ -32,6 +32,7 @@ Solutions to some problems on Hackerrank.
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
+| Introduction | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 
 
 # Shell
 

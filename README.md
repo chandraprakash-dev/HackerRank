@@ -29,6 +29,11 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [BasicDataTypes.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/InputAndOutput.cpp)
 | Introduction | Easy | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [ConditionalStatements.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/ConditionalStatements.cpp)
 | Introduction | Easy | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [ForLoop.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/ForLoop.cpp)
+| Introduction | Easy | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [Functions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/Functions.cpp)
+| Introduction | Easy | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [Pointer.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/Pointer.cpp)
+| Introduction | Easy | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [ArraysIntroduction.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/ArraysIntroduction.cpp)
+| Introduction | Easy | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [VariableSizedArrays.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/VariableSizedArrays.cpp)
+
 
 
 # Java

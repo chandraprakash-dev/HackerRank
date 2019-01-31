@@ -32,9 +32,10 @@ Solutions to some problems on Hackerrank.
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
-| Introduction | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 
+| Introduction | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [SayHelloWorldWithPython.py](LANGUAGE%20PROFICIENCY/Python/Introduction/SayHelloWorldWithPython.py)
 
 # Shell
 
-| Subdomain | Difficulty | Challenge | Solution |
+| Subdomain | Difficulty |LetsEcho.sh Challenge | Solution |
 |:--:|:--:|:--:|:--:|
+| Bash | Easy | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [LetsEcho.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/LetsEcho.sh)

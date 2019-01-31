@@ -26,7 +26,7 @@ Solutions to some problems on Hackerrank.
 |:--:|:--:|:--:|:--:|
 | Introduction | Easy | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [SayHelloWorldWithCPlusPlus.cpp]( LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/SayHelloWorldWithCPlusPlus.cpp)
 | Introduction | Easy | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [InputAndOutput.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/InputAndOutput.cpp)
-| Introduction | Easy | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [BasicDataTypes.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/InputAndOutput.cpp)
+| Introduction | Easy | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [BasicDataTypes.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/BasicDataTypes.cpp.cpp)
 | Introduction | Easy | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [ConditionalStatements.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/ConditionalStatements.cpp)
 | Introduction | Easy | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [ForLoop.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/ForLoop.cpp)
 | Introduction | Easy | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [Functions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/Functions.cpp)

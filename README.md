@@ -41,15 +41,20 @@ Solutions to some problems on Hackerrank.
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
 | Introduction | Easy | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |[WelcomeToJava.java](LANGUAGE%20PROFICIENCY/Java/Introduction/WelcomeToJava.java)
+| Introduction | Easy | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [JavaStdInAndStdOut1.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaStdInAndStdOut1.java)
+| Introduction | Easy |[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [JavaIfElse.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaIfElse.java)
 
 # Python
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
 | Introduction | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [SayHelloWorldWithPython.py](LANGUAGE%20PROFICIENCY/Python/Introduction/SayHelloWorldWithPython.py)
+| Introduction | Easy | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [PythonIfElse.py](LANGUAGE%20PROFICIENCY/Python/Introduction/PythonIfElse.py)
+
 
 # Shell
 
 | Subdomain | Difficulty |LetsEcho.sh Challenge | Solution |
 |:--:|:--:|:--:|:--:|
 | Bash | Easy | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [LetsEcho.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/LetsEcho.sh)
+| Bash | Easy | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [APersonalizedEcho.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/APersonalizedEcho.sh)

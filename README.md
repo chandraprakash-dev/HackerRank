@@ -34,8 +34,6 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [ArraysIntroduction.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/ArraysIntroduction.cpp)
 | Introduction | Easy | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [VariableSizedArrays.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/VariableSizedArrays.cpp)
 
-
-
 # Java
 
 | Subdomain | Difficulty | Challenge | Solution |
@@ -43,7 +41,10 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |[WelcomeToJava.java](LANGUAGE%20PROFICIENCY/Java/Introduction/WelcomeToJava.java)
 | Introduction | Easy | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [JavaStdInAndStdOut1.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaStdInAndStdOut1.java)
 | Introduction | Easy |[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [JavaIfElse.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaIfElse.java)
-
+| Introduction | Easy | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [JavaOutputFormatting.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaOutputFormatting.java)
+| Introduction | Easy | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [JavaLoops1.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaLoops1.java)
+| Introduction | Easy | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [JavaLoops2.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaLoops2.java)
+| Introduction | Easy | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [JavaDatatypes.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaDatatypes.java)
 # Python
 
 | Subdomain | Difficulty | Challenge | Solution |

@@ -45,6 +45,12 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [JavaLoops1.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaLoops1.java)
 | Introduction | Easy | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [JavaLoops2.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaLoops2.java)
 | Introduction | Easy | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [JavaDatatypes.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaDatatypes.java)
+| Introduction | Easy | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [JavaEndOfFile.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaEndOfFile.java)
+| Introduction | Easy | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [JavaStaticInitializerBlock.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaStaticInitializerBlock.java)
+| Introduction | Easy | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [JavaIntToString.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaIntToString.java)
+| Introduction | Easy | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [JavaDateAndTime.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaDateAndTime.java)
+| Introduction | Easy | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [JavaCurrencyFormatter.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaCurrencyFormatter.java)
+
 # Python
 
 | Subdomain | Difficulty | Challenge | Solution |

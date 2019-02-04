@@ -57,6 +57,10 @@ Solutions to some problems on Hackerrank.
 |:--:|:--:|:--:|:--:|
 | Introduction | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [SayHelloWorldWithPython.py](LANGUAGE%20PROFICIENCY/Python/Introduction/SayHelloWorldWithPython.py)
 | Introduction | Easy | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [PythonIfElse.py](LANGUAGE%20PROFICIENCY/Python/Introduction/PythonIfElse.py)
+| Introduction | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [ArithmeticOperators.py](LANGUAGE%20PROFICIENCY/Python/Introduction/ArithmeticOperators.py)
+| Introduction | Easy | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [PythonDivision.py](LANGUAGE%20PROFICIENCY/Python/Introduction/PythonDivision.py)
+| Introduction | Easy | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Loops.py](LANGUAGE%20PROFICIENCY/Python/Introduction/Loops.py)
+| Introduction | Easy | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [PrintFunction.py](LANGUAGE%20PROFICIENCY/Python/Introduction/PrintFunction.py)
 
 
 # Shell

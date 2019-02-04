@@ -61,6 +61,8 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [PythonDivision.py](LANGUAGE%20PROFICIENCY/Python/Introduction/PythonDivision.py)
 | Introduction | Easy | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Loops.py](LANGUAGE%20PROFICIENCY/Python/Introduction/Loops.py)
 | Introduction | Easy | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [PrintFunction.py](LANGUAGE%20PROFICIENCY/Python/Introduction/PrintFunction.py)
+| Introduction | Medium | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [WriteAFunction.py](Python/Introduction/WriteAFunction.py)
+
 
 
 # Shell
@@ -75,3 +77,4 @@ Solutions to some problems on Hackerrank.
 | Bash | Easy | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem) | [ComparingNumbers.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ComparingNumbers.sh)
 | Bash | Easy | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [ComparingNumbers.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ComparingNumbers.sh)
 | Bash | Easy | [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [MoreOnConditionals.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/MoreOnConditionals.sh)
+| Bash | Medium | []

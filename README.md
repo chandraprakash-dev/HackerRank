@@ -65,7 +65,13 @@ Solutions to some problems on Hackerrank.
 
 # Shell
 
-| Subdomain | Difficulty |LetsEcho.sh Challenge | Solution |
+| Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
 | Bash | Easy | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [LetsEcho.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/LetsEcho.sh)
 | Bash | Easy | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [APersonalizedEcho.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/APersonalizedEcho.sh)
+| Bash | Easy | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) | [LoopingWithNumbers.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/LoopingWithNumbers.sh)
+| Bash | Easy | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [TheWorldOfNumbers.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/TheWorldOfNumbers.sh)
+| Bash | Easy | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem) | []
+
+
+| Bash | Easy | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [LoopingAndSkipping.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/LoopingAndSkipping.sh)

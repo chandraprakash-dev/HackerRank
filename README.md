@@ -77,4 +77,5 @@ Solutions to some problems on Hackerrank.
 | Bash | Easy | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem) | [ComparingNumbers.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ComparingNumbers.sh)
 | Bash | Easy | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [ComparingNumbers.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ComparingNumbers.sh)
 | Bash | Easy | [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [MoreOnConditionals.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/MoreOnConditionals.sh)
-| Bash | Medium | []
+| Bash | Medium | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [ArithmeticOperations.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ArithmeticOperations.sh)
+| Bash | Medium | [Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [ComputeTheAverage.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ComputeTheAverage.sh)

@@ -79,3 +79,4 @@ Solutions to some problems on Hackerrank.
 | Bash | Easy | [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [MoreOnConditionals.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/MoreOnConditionals.sh)
 | Bash | Medium | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [ArithmeticOperations.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ArithmeticOperations.sh)
 | Bash | Medium | [Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [ComputeTheAverage.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ComputeTheAverage.sh)
+| Bash | Hard | [Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | [FunctionsAndFractalsRecursiveTreesBash.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/FunctionsAndFractalsRecursiveTreesBash.sh)

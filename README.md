@@ -81,4 +81,5 @@ Solutions to some problems on Hackerrank.
 | Bash | Medium | [Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [ComputeTheAverage.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/ComputeTheAverage.sh)
 | Bash | Hard | [Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | [FunctionsAndFractalsRecursiveTreesBash.sh](LANGUAGE%20PROFICIENCY/Shell/Bash/FunctionsAndFractalsRecursiveTreesBash.sh)
 | Text Processing | Easy | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Cut#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Cut%231.sh)
-| Text Processing | Easy | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [cut#2.sh]
+| Text Processing | Easy | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [cut#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/cut%232.sh)
+| Text Processing | Easy | [Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [cut#3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/cut%233.sh)

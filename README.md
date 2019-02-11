@@ -19,6 +19,11 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [SumAndDifferenceOfTwoNumbers.c](LANGUAGE%20PROFICIENCY/C/Introduction/SumAndDifferenceOfTwoNumbers.c)
 | Introduction | Easy | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem) | [FunctionsInC.c](LANGUAGE%20PROFICIENCY/C/Introduction/FunctionsInC.c)
 | Introduction | Easy | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem) | [PointersInC.c](LANGUAGE%20PROFICIENCY/C/Introduction/PointersInC.c)
+| Conditionals and Loops | Easy | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) | [ConditionalStatementsInC.c]()
+| Conditionals and Loops | Easy | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem) | [ForLoopInC.c]()
+| Conditionals and Loops | Easy | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/copy-from/98583090) | [SumOfDigitsOfAFiveDigitNumber.c]()
+| Conditionals and Loops | Easy | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem) | [BitwiseOperators.c]()
+| Conditionals and Loops | Medium | [Printing Pattern using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem) | [PrintingPatternsUsingLoops.c]()
 
 # C++
 

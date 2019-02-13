@@ -24,6 +24,7 @@ Solutions to some problems on Hackerrank.
 | Conditionals and Loops | Easy | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/copy-from/98583090) | [SumOfDigitsOfAFiveDigitNumber.c](LANGUAGE%20PROFICIENCY/C/Conditionals%20and%20Loops/SumOfDigitsOfAFiveDigitNumber.c)
 | Conditionals and Loops | Easy | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem) | [BitwiseOperators.c](LANGUAGE%20PROFICIENCY/C/Conditionals%20and%20Loops/BitwiseOperators.c)
 | Conditionals and Loops | Medium | [Printing Pattern using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem) | [PrintingPatternsUsingLoops.c](LANGUAGE%20PROFICIENCY/C/Conditionals%20and%20Loops/PrintingPatternsUsingLoops.c)
+| Arrays and Strings | Medium | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) | [1DArraysInC.c]()
 
 # C++
 
@@ -38,12 +39,12 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [Pointer.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/Pointer.cpp)
 | Introduction | Easy | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [ArraysIntroduction.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/ArraysIntroduction.cpp)
 | Introduction | Easy | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [VariableSizedArrays.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/VariableSizedArrays.cpp)
-| Strings | Easy | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | [Strings.cpp]()
-| Strings | Easy | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | [StringStream.cpp]()
+| Strings | Easy | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | [Strings.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Strings/Strings.cpp)
+| Strings | Easy | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | [StringStream.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Strings/StringStream.cpp)
 | Strings | Medium | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [AttributeParser.cpp]()
-| Classes | Easy | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) | [Structs.cpp]()
-| Classes | Easy | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | [Class.cpp]()
-| Classes | Easy | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | [ClassesAndObjects.cpp]()
+| Classes | Easy | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) | [Structs.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/Structs.cpp)
+| Classes | Easy | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | [Class.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/Class.cpp)
+| Classes | Easy | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | [ClassesAndObjects.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/ClassesAndObjects.cpp)
 
 # Java
 
@@ -61,7 +62,7 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [JavaIntToString.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaIntToString.java)
 | Introduction | Easy | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [JavaDateAndTime.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaDateAndTime.java)
 | Introduction | Easy | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [JavaCurrencyFormatter.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaCurrencyFormatter.java)
-| Strings | Easy | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [JavaStringsIntroduction.java]()
+| Strings | Easy | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [JavaStringsIntroduction.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringsIntroduction.java)
 
 # Python
 
@@ -74,8 +75,8 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Loops.py](LANGUAGE%20PROFICIENCY/Python/Introduction/Loops.py)
 | Introduction | Easy | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [PrintFunction.py](LANGUAGE%20PROFICIENCY/Python/Introduction/PrintFunction.py)
 | Introduction | Medium | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [WriteAFunction.py](Python/Introduction/WriteAFunction.py)
-| Basic Data Types | Easy | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Lists.py]()
-
+| Basic Data Types | Easy | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Lists.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/Lists.py)
+| Basic Data Types | Easy | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Tuples.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/Tuples.py)
 
 # Shell
 

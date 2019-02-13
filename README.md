@@ -24,7 +24,7 @@ Solutions to some problems on Hackerrank.
 | Conditionals and Loops | Easy | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/copy-from/98583090) | [SumOfDigitsOfAFiveDigitNumber.c](LANGUAGE%20PROFICIENCY/C/Conditionals%20and%20Loops/SumOfDigitsOfAFiveDigitNumber.c)
 | Conditionals and Loops | Easy | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem) | [BitwiseOperators.c](LANGUAGE%20PROFICIENCY/C/Conditionals%20and%20Loops/BitwiseOperators.c)
 | Conditionals and Loops | Medium | [Printing Pattern using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem) | [PrintingPatternsUsingLoops.c](LANGUAGE%20PROFICIENCY/C/Conditionals%20and%20Loops/PrintingPatternsUsingLoops.c)
-| Arrays and Strings | Medium | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) | [1DArraysInC.c]()
+| Arrays and Strings | Medium | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) | [1DArraysInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/1DArraysInC.c)
 
 # C++
 
@@ -41,7 +41,7 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [VariableSizedArrays.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Introduction/VariableSizedArrays.cpp)
 | Strings | Easy | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | [Strings.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Strings/Strings.cpp)
 | Strings | Easy | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | [StringStream.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Strings/StringStream.cpp)
-| Strings | Medium | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [AttributeParser.cpp]()
+| Strings | Medium | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [AttributeParser.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Strings/AttributeParser.cpp)
 | Classes | Easy | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem) | [Structs.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/Structs.cpp)
 | Classes | Easy | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | [Class.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/Class.cpp)
 | Classes | Easy | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | [ClassesAndObjects.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/ClassesAndObjects.cpp)
@@ -63,6 +63,7 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [JavaDateAndTime.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaDateAndTime.java)
 | Introduction | Easy | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [JavaCurrencyFormatter.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaCurrencyFormatter.java)
 | Strings | Easy | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [JavaStringsIntroduction.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringsIntroduction.java)
+| Strings | Easy | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [JavaSubstring.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaSubstring.java)
 
 # Python
 
@@ -96,3 +97,4 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Easy | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Cut#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Cut%231.sh)
 | Text Processing | Easy | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [cut#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/cut%232.sh)
 | Text Processing | Easy | [Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [cut#3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/cut%233.sh)
+| Text Processing | Easy | [Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem) | [cut#4.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/cut#4.sh)

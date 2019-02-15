@@ -66,6 +66,7 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [JavaCurrencyFormatter.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaCurrencyFormatter.java)
 | Strings | Easy | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [JavaStringsIntroduction.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringsIntroduction.java)
 | Strings | Easy | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [JavaSubstring.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaSubstring.java)
+| Strings | Easy | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [JavaSubstringComparisons.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaSubstringComparisons.java)
 
 # Python
 
@@ -80,6 +81,7 @@ Solutions to some problems on Hackerrank.
 | Introduction | Medium | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [WriteAFunction.py](Python/Introduction/WriteAFunction.py)
 | Basic Data Types | Easy | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Lists.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/Lists.py)
 | Basic Data Types | Easy | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Tuples.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/Tuples.py)
+| Basic Data Types | Easy | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [ListComprehensions.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/ListComprehensions.py)
 
 # Shell
 
@@ -105,3 +107,5 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Easy | [Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem) | [Cut#7.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Cut#7.sh)
 | Text Processing | Easy | [Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem) | [Cut#8.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Cut#8.sh)
 | Text Processing | Easy | [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) | [Cut#9.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Cut#9.sh)
+| Text Processing | Easy | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [HeadOfATextFile#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/HeadOfATextFile#1.sh)
+| Text Processing | Easy | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | [HeadOfATextFile#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/HeadOfATextFile#2.sh)

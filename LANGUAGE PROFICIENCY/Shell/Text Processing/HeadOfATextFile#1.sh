@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 20
+head -n 20 $1

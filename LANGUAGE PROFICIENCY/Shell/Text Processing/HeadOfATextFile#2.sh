@@ -1,2 +1,2 @@
 #!/bin/bash
-head -c20
+head -c20 $1

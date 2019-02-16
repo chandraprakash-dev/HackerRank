@@ -70,6 +70,9 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [JavaStringsIntroduction.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringsIntroduction.java)
 | Strings | Easy | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [JavaSubstring.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaSubstring.java)
 | Strings | Easy | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [JavaSubstringComparisons.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaSubstringComparisons.java)
+| Strings | Easy | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [JavaStringReverse.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringReverse.java)
+| Strings | Easy | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [JavaAnagrams.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaAnagrams.java)
+| Strings | Easy | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [JavaStringTokens.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringTokens.java)
 
 # Python
 
@@ -85,6 +88,8 @@ Solutions to some problems on Hackerrank.
 | Basic Data Types | Easy | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Lists.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/Lists.py)
 | Basic Data Types | Easy | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Tuples.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/Tuples.py)
 | Basic Data Types | Easy | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [ListComprehensions.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/ListComprehensions.py)
+| Basic Data Types | Easy | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [FindTheRunnerUpScore.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/FindTheRunnerUpScore.py)
+| Basic Data Types | Easy | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [NestedLists.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/NestedLists.py)
 
 # Shell
 
@@ -112,3 +117,6 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Easy | [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) | [Cut#9.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Cut#9.sh)
 | Text Processing | Easy | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [HeadOfATextFile#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/HeadOfATextFile#1.sh)
 | Text Processing | Easy | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | [HeadOfATextFile#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/HeadOfATextFile#2.sh)
+| Text Processing | Easy | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [TailOfATextFile#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TailOfATextFile#1.sh)
+| Text Processing | Easy | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [TailOfATextFile#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TailOfATextFile#2.sh)
+| Text Processing | Easy | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | [MiddleOfATextFile.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/MiddleOfATextFile.sh)

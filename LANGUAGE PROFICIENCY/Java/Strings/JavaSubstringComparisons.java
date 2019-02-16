@@ -9,7 +9,7 @@ public class Solution {
 
         int n = s.length() - k + 1;
 
-        for(int i = 0; i < n; i ++) {
+        for(int i = 1; i < n; i ++) {
             substring = s.substring(i, i + k);
             smallest = substring.compareTo(smallest) < 0 ? substring : smallest;
             largest = substring.compareTo(largest) > 0 ? substring : largest;

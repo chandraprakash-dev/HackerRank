@@ -26,6 +26,7 @@ Solutions to some problems on Hackerrank.
 | Conditionals and Loops | Medium | [Printing Pattern using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem) | [PrintingPatternsUsingLoops.c](LANGUAGE%20PROFICIENCY/C/Conditionals%20and%20Loops/PrintingPatternsUsingLoops.c)
 | Arrays and Strings | Medium | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) | [1DArraysInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/1DArraysInC.c)
 | Arrays and Strings | Medium | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem) | [ArrayReversal.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/ArrayReversal.c)
+| Arrays and Strings | Medium | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)|[DigitFrequency.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DigitFrequency.c)
 
 # C++
 
@@ -47,6 +48,8 @@ Solutions to some problems on Hackerrank.
 | Classes | Easy | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | [Class.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/Class.cpp)
 | Classes | Easy | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | [ClassesAndObjects.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/ClassesAndObjects.cpp)
 | Classes | Easy | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | [BoxIt.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/BoxIt.cpp)
+| Classes | Medium | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | [InheritedCode.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/InheritedCode.cpp)
+| Classes | Medium | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) |
 
 # Java
 

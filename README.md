@@ -27,6 +27,8 @@ Solutions to some problems on Hackerrank.
 | Arrays and Strings | Medium | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) | [1DArraysInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/1DArraysInC.c)
 | Arrays and Strings | Medium | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem) | [ArrayReversal.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/ArrayReversal.c)
 | Arrays and Strings | Medium | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)|[DigitFrequency.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DigitFrequency.c)
+| Arrays and Strings | Medium | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem) | [PrintingTokens.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/PrintingTokens.c)
+| Arrays and Strings | Medium | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | [DynamicArrayInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DynamicArrayInC.c)
 
 # C++
 

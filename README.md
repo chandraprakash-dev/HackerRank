@@ -51,7 +51,7 @@ Solutions to some problems on Hackerrank.
 | Classes | Easy | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | [ClassesAndObjects.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/ClassesAndObjects.cpp)
 | Classes | Easy | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | [BoxIt.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/BoxIt.cpp)
 | Classes | Medium | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | [InheritedCode.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/InheritedCode.cpp)
-| Classes | Medium | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) |
+| Classes | Medium | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | [ExceptionalServer.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/ExceptionalServer.cpp)
 
 # Java
 

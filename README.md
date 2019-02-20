@@ -29,6 +29,7 @@ Solutions to some problems on Hackerrank.
 | Arrays and Strings | Medium | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)|[DigitFrequency.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DigitFrequency.c)
 | Arrays and Strings | Medium | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem) | [PrintingTokens.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/PrintingTokens.c)
 | Arrays and Strings | Medium | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | [DynamicArrayInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DynamicArrayInC.c)
+| Functions | Easy | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem) | [CalculateTheNthTerm.c](LANGUAGE%20PROFICIENCY/C/Functions/CalculateTheNthTerm.c)
 
 # C++
 
@@ -52,6 +53,8 @@ Solutions to some problems on Hackerrank.
 | Classes | Easy | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | [BoxIt.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/BoxIt.cpp)
 | Classes | Medium | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | [InheritedCode.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/InheritedCode.cpp)
 | Classes | Medium | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | [ExceptionalServer.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/ExceptionalServer.cpp)
+| Classes | Medium | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | [VirtualFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/VirtualFunctions.cpp)
+| Classes | Hard | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | [AbstractClassesPolymorphism.cpp](AbstractClassesPolymorphism.cpp)
 
 # Java
 
@@ -75,6 +78,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [JavaStringReverse.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringReverse.java)
 | Strings | Easy | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [JavaAnagrams.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaAnagrams.java)
 | Strings | Easy | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [JavaStringTokens.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringTokens.java)
+| Strings | Easy | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [PatternSyntaxChecker.java](LANGUAGE%20PROFICIENCY/Java/Strings/PatternSyntaxChecker.java)
 
 # Python
 
@@ -92,6 +96,7 @@ Solutions to some problems on Hackerrank.
 | Basic Data Types | Easy | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [ListComprehensions.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/ListComprehensions.py)
 | Basic Data Types | Easy | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [FindTheRunnerUpScore.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/FindTheRunnerUpScore.py)
 | Basic Data Types | Easy | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [NestedLists.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/NestedLists.py)
+| Basic Data Types | Easy | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [FindingThePercentage.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/FindingThePercentage.py)
 
 # Shell
 
@@ -122,3 +127,6 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Easy | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [TailOfATextFile#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TailOfATextFile#1.sh)
 | Text Processing | Easy | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [TailOfATextFile#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TailOfATextFile#2.sh)
 | Text Processing | Easy | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | [MiddleOfATextFile.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/MiddleOfATextFile.sh)
+| Text Processing | Easy | ['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [TrCommand#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TrCommand#1.sh)
+| Text Processing | Easy | ['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [TrCommand#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TrCommand#2.sh)
+| Text Processing | Easy | ['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [TrCommand#3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TrCommand#3.sh)

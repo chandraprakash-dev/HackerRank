@@ -30,6 +30,7 @@ Solutions to some problems on Hackerrank.
 | Arrays and Strings | Medium | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem) | [PrintingTokens.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/PrintingTokens.c)
 | Arrays and Strings | Medium | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | [DynamicArrayInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DynamicArrayInC.c)
 | Functions | Easy | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem) | [CalculateTheNthTerm.c](LANGUAGE%20PROFICIENCY/C/Functions/CalculateTheNthTerm.c)
+| Functions | Easy | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem) | [StudentsMarksSum.c](LANGUAGE%20PROFICIENCY/C/Functions/StudentsMarksSum.c)
 
 # C++
 
@@ -54,7 +55,8 @@ Solutions to some problems on Hackerrank.
 | Classes | Medium | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | [InheritedCode.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/InheritedCode.cpp)
 | Classes | Medium | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | [ExceptionalServer.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/ExceptionalServer.cpp)
 | Classes | Medium | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | [VirtualFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/VirtualFunctions.cpp)
-| Classes | Hard | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | [AbstractClassesPolymorphism.cpp](AbstractClassesPolymorphism.cpp)
+| Classes | Hard | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) |  [AbstractClassesPolymorphism.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/AbstractClassesPolymorphism.cpp)
+| Inheritance | Easy | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | [InheritanceIntroduction.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/InheritanceIntroduction.cpp)
 
 # Java
 
@@ -79,6 +81,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [JavaAnagrams.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaAnagrams.java)
 | Strings | Easy | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [JavaStringTokens.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringTokens.java)
 | Strings | Easy | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [PatternSyntaxChecker.java](LANGUAGE%20PROFICIENCY/Java/Strings/PatternSyntaxChecker.java)
+| Strings | Medium | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [JavaRegex.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex.java)
 
 # Python
 
@@ -97,6 +100,13 @@ Solutions to some problems on Hackerrank.
 | Basic Data Types | Easy | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [FindTheRunnerUpScore.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/FindTheRunnerUpScore.py)
 | Basic Data Types | Easy | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [NestedLists.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/NestedLists.py)
 | Basic Data Types | Easy | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [FindingThePercentage.py](LANGUAGE%20PROFICIENCY/Python/Basic%20Data%20Types/FindingThePercentage.py)
+| Strings | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [SwapCase.py](LANGUAGE%20PROFICIENCY/Python/Strings/SwapCase.py)
+| Strings | Easy | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [StringSplitAndJoin.py](LANGUAGE%20PROFICIENCY/Python/Strings/StringSplitAndJoin.py)
+| Strings | Easy | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [WhatsYourName.py](LANGUAGE%20PROFICIENCY/Python/Strings/WhatsYourName.py)
+| Strings | Easy | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Mutations.py](LANGUAGE%20PROFICIENCY/Python/Strings/Mutations.py)
+| Strings | Easy | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [FindAString.py](LANGUAGE%20PROFICIENCY/Python/Strings/FindAString.py)
+
+
 
 # Shell
 
@@ -130,3 +140,10 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Easy | ['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [TrCommand#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TrCommand#1.sh)
 | Text Processing | Easy | ['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [TrCommand#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TrCommand#2.sh)
 | Text Processing | Easy | ['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [TrCommand#3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/TrCommand#3.sh)
+| Text Processing | Easy | [Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) | [SortCommand#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#1.sh)
+| Text Processing | Easy | [Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [SortCommand#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#2.sh)
+| Text Processing | Easy | [Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [SortCommand#3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#3.sh)
+| Text Processing | Easy | [Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) | [SortCommand#4.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#4.sh)
+| Text Processing | Easy | [Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) | [SortCommand#5.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#5.sh)
+| Text Processing | Easy | [Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [SortCommand#6.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#6.sh)
+| Text Processing | Easy | [Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | [SortCommand#7.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#7.sh)

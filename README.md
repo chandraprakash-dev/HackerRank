@@ -31,6 +31,7 @@ Solutions to some problems on Hackerrank.
 | Arrays and Strings | Medium | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | [DynamicArrayInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DynamicArrayInC.c)
 | Functions | Easy | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem) | [CalculateTheNthTerm.c](LANGUAGE%20PROFICIENCY/C/Functions/CalculateTheNthTerm.c)
 | Functions | Easy | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem) | [StudentsMarksSum.c](LANGUAGE%20PROFICIENCY/C/Functions/StudentsMarksSum.c)
+| Functions | Medium | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [PermutationsOfStrings.c](LANGUAGE%20PROFICIENCY/C/Functions/PermutationsOfStrings.c)
 
 # C++
 
@@ -57,6 +58,7 @@ Solutions to some problems on Hackerrank.
 | Classes | Medium | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | [VirtualFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/VirtualFunctions.cpp)
 | Classes | Hard | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) |  [AbstractClassesPolymorphism.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/AbstractClassesPolymorphism.cpp)
 | Inheritance | Easy | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | [InheritanceIntroduction.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/InheritanceIntroduction.cpp)
+| Inheritance | Easy | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | [RectangleArea.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/RectangleArea.cpp)
 
 # Java
 
@@ -82,6 +84,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [JavaStringTokens.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaStringTokens.java)
 | Strings | Easy | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [PatternSyntaxChecker.java](LANGUAGE%20PROFICIENCY/Java/Strings/PatternSyntaxChecker.java)
 | Strings | Medium | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [JavaRegex.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex.java)
+| Strings | Medium | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [JavaRegex2DuplicateWords.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex2DuplicateWords.java)
 
 # Python
 

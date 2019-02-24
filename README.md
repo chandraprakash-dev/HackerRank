@@ -156,3 +156,7 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Easy | [Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) | [SortCommand#5.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#5.sh)
 | Text Processing | Easy | [Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [SortCommand#6.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#6.sh)
 | Text Processing | Easy | [Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | [SortCommand#7.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/SortCommand#7.sh)
+| Text Processing | Easy | ['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) | [UniqCommand#1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/UniqCommand#1.sh)
+| Text Processing | Easy | ['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [UniqCommand#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/UniqCommand#2.sh)
+| Text Processing | Easy | ['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem) | [UniqCommand#3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/UniqCommand#3.sh)
+| Text Processing | Easy | ['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [UniqCommand#4.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/UniqCommand#4.sh)

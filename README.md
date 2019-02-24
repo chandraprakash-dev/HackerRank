@@ -108,7 +108,13 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [WhatsYourName.py](LANGUAGE%20PROFICIENCY/Python/Strings/WhatsYourName.py)
 | Strings | Easy | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Mutations.py](LANGUAGE%20PROFICIENCY/Python/Strings/Mutations.py)
 | Strings | Easy | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [FindAString.py](LANGUAGE%20PROFICIENCY/Python/Strings/FindAString.py)
-
+| Strings | Easy | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [StringValidators.py](LANGUAGE%20PROFICIENCY/Python/Strings/StringValidators.py)
+| Strings | Easy | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [TextAlignment.py](LANGUAGE%20PROFICIENCY/Python/Strings/TextAlignment.py)
+| Strings | Easy | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [TextWrap.py](LANGUAGE%20PROFICIENCY/Python/Strings/TextWrap.py)
+| Strings | Easy | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [DesignerDoorMat.py](LANGUAGE%20PROFICIENCY/Python/Strings/DesignerDoorMat.py)
+| Strings | Easy | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [StringFormatting.py](LANGUAGE%20PROFICIENCY/Python/Strings/StringFormatting.py)
+| Strings | Easy | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [AlphabetRangoli.py](LANGUAGE%20PROFICIENCY/Python/Strings/AlphabetRangoli.py)
+| Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Capitalize.py](LANGUAGE%20PROFICIENCY/Python/Strings/Capitalize.py)
 
 
 # Shell

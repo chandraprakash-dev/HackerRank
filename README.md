@@ -31,7 +31,9 @@ Solutions to some problems on Hackerrank.
 | Arrays and Strings | Medium | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | [DynamicArrayInC.c](LANGUAGE%20PROFICIENCY/C/Arrays%20and%20Strings/DynamicArrayInC.c)
 | Functions | Easy | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem) | [CalculateTheNthTerm.c](LANGUAGE%20PROFICIENCY/C/Functions/CalculateTheNthTerm.c)
 | Functions | Easy | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem) | [StudentsMarksSum.c](LANGUAGE%20PROFICIENCY/C/Functions/StudentsMarksSum.c)
+| Functions | Hard | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | [SortingArrayOfStrings.py](LANGUAGE%20PROFICIENCY/C/Functions/SortingArrayOfStrings.py)
 | Functions | Medium | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [PermutationsOfStrings.c](LANGUAGE%20PROFICIENCY/C/Functions/PermutationsOfStrings.c)
+
 
 # C++
 
@@ -59,6 +61,7 @@ Solutions to some problems on Hackerrank.
 | Classes | Hard | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) |  [AbstractClassesPolymorphism.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Classes/AbstractClassesPolymorphism.cpp)
 | Inheritance | Easy | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | [InheritanceIntroduction.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/InheritanceIntroduction.cpp)
 | Inheritance | Easy | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | [RectangleArea.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/RectangleArea.cpp)
+| Inheritance | Easy | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | [MultiLevelInheritance.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MultiLevelInheritance.cpp)
 
 # Java
 
@@ -85,6 +88,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [PatternSyntaxChecker.java](LANGUAGE%20PROFICIENCY/Java/Strings/PatternSyntaxChecker.java)
 | Strings | Medium | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [JavaRegex.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex.java)
 | Strings | Medium | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [JavaRegex2DuplicateWords.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex2DuplicateWords.java)
+| Strings | Easy | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [ValidUsernameRegularExpression.java](LANGUAGE%20PROFICIENCY/Java/Strings/ValidUsernameRegularExpression.java)
 
 # Python
 
@@ -115,6 +119,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [StringFormatting.py](LANGUAGE%20PROFICIENCY/Python/Strings/StringFormatting.py)
 | Strings | Easy | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [AlphabetRangoli.py](LANGUAGE%20PROFICIENCY/Python/Strings/AlphabetRangoli.py)
 | Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Capitalize.py](LANGUAGE%20PROFICIENCY/Python/Strings/Capitalize.py)
+| Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [TheMinionGame.py](LANGUAGE%20PROFICIENCY/Python/Strings/TheMinionGame.py)
 
 
 # Shell
@@ -160,3 +165,7 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Easy | ['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [UniqCommand#2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/UniqCommand#2.sh)
 | Text Processing | Easy | ['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem) | [UniqCommand#3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/UniqCommand#3.sh)
 | Text Processing | Easy | ['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [UniqCommand#4.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/UniqCommand#4.sh)
+| Text Processing | Medium | [Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem) | [Paste1.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Paste1.sh)
+| Text Processing | Medium | [Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Paste2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Paste2.sh)
+| Text Processing | Medium | [Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem) | [Paste3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Paste3.sh)
+| Text Processing | Medium | [Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | [Paste4.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Paste4.sh)

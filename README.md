@@ -33,6 +33,7 @@ Solutions to some problems on Hackerrank.
 | Functions | Easy | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem) | [StudentsMarksSum.c](LANGUAGE%20PROFICIENCY/C/Functions/StudentsMarksSum.c)
 | Functions | Hard | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | [SortingArrayOfStrings.py](LANGUAGE%20PROFICIENCY/C/Functions/SortingArrayOfStrings.py)
 | Functions | Medium | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [PermutationsOfStrings.c](LANGUAGE%20PROFICIENCY/C/Functions/PermutationsOfStrings.c)
+| Functions | Medium | [Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | [VariadicFunctionsInC.c](LANGUAGE%20PROFICIENCY/C/Functions/VariadicFunctionsInC.c)
 
 
 # C++
@@ -62,6 +63,7 @@ Solutions to some problems on Hackerrank.
 | Inheritance | Easy | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | [InheritanceIntroduction.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/InheritanceIntroduction.cpp)
 | Inheritance | Easy | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | [RectangleArea.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/RectangleArea.cpp)
 | Inheritance | Easy | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | [MultiLevelInheritance.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MultiLevelInheritance.cpp)
+| Inheritance | Medium | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | [AccessingInheritedFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/AccessingInheritedFunctions.cpp)
 
 # Java
 
@@ -89,6 +91,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Medium | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [JavaRegex.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex.java)
 | Strings | Medium | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [JavaRegex2DuplicateWords.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex2DuplicateWords.java)
 | Strings | Easy | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [ValidUsernameRegularExpression.java](LANGUAGE%20PROFICIENCY/Java/Strings/ValidUsernameRegularExpression.java)
+| Strings | Medium | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [TagContentExtractor.java](LANGUAGE%20PROFICIENCY/Java/Strings/TagContentExtractor.java)
 
 # Python
 
@@ -120,7 +123,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [AlphabetRangoli.py](LANGUAGE%20PROFICIENCY/Python/Strings/AlphabetRangoli.py)
 | Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Capitalize.py](LANGUAGE%20PROFICIENCY/Python/Strings/Capitalize.py)
 | Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [TheMinionGame.py](LANGUAGE%20PROFICIENCY/Python/Strings/TheMinionGame.py)
-
+| Strings | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [MergeTheTools.py](LANGUAGE%20PROFICIENCY/Python/Strings/MergeTheTools.py)
 
 # Shell
 
@@ -169,3 +172,9 @@ Solutions to some problems on Hackerrank.
 | Text Processing | Medium | [Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Paste2.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Paste2.sh)
 | Text Processing | Medium | [Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem) | [Paste3.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Paste3.sh)
 | Text Processing | Medium | [Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | [Paste4.sh](LANGUAGE%20PROFICIENCY/Shell/Text%20Processing/Paste4.sh)
+| Arrays in Bash | Easy | [Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [ReadInAnArray.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/ReadInAnArray.sh)
+| Arrays in Bash | Easy | [Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem) | [SliceAnArray.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/SliceAnArray.sh)
+| Arrays in Bash | Medium | [Filter an Array with Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) | [FilterAnArrayWithPatterns.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/FilterAnArrayWithPatterns.sh)
+| Arrays in Bash | Easy | [Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [ConcatenateAnArrayWithItself.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/ConcatenateAnArrayWithItself.sh)
+| Arrays in Bash | Easy | [Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem) | [DisplayAnElementOfAnArray.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/DisplayAnElementOfAnArray.sh)
+| Arrays in Bash | Easy | [Count the number of elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [CountTheNumberOfElementsInAnArray.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/CountTheNumberOfElementsInAnArray.sh)

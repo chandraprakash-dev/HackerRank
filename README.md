@@ -34,6 +34,8 @@ Solutions to some problems on Hackerrank.
 | Functions | Hard | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | [SortingArrayOfStrings.py](LANGUAGE%20PROFICIENCY/C/Functions/SortingArrayOfStrings.py)
 | Functions | Medium | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [PermutationsOfStrings.c](LANGUAGE%20PROFICIENCY/C/Functions/PermutationsOfStrings.c)
 | Functions | Medium | [Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | [VariadicFunctionsInC.c](LANGUAGE%20PROFICIENCY/C/Functions/VariadicFunctionsInC.c)
+| Functions | Hard | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem) | [QueryingTheDocument.c](LANGUAGE%20PROFICIENCY/C/Functions/QueryingTheDocument.c)
+
 
 
 # C++

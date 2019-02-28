@@ -94,6 +94,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Medium | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [JavaRegex2DuplicateWords.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex2DuplicateWords.java)
 | Strings | Easy | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [ValidUsernameRegularExpression.java](LANGUAGE%20PROFICIENCY/Java/Strings/ValidUsernameRegularExpression.java)
 | Strings | Medium | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [TagContentExtractor.java](LANGUAGE%20PROFICIENCY/Java/Strings/TagContentExtractor.java)
+| BigNumber | Medium | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [JavaBigDecimal.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigDecimal.java)
 
 # Python
 
@@ -126,6 +127,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Capitalize.py](LANGUAGE%20PROFICIENCY/Python/Strings/Capitalize.py)
 | Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [TheMinionGame.py](LANGUAGE%20PROFICIENCY/Python/Strings/TheMinionGame.py)
 | Strings | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [MergeTheTools.py](LANGUAGE%20PROFICIENCY/Python/Strings/MergeTheTools.py)
+|Sets | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [IntroductionToSets.py](LANGUAGE%20PROFICIENCY/Python/Sets/IntroductionToSets.py)
 
 # Shell
 
@@ -180,3 +182,5 @@ Solutions to some problems on Hackerrank.
 | Arrays in Bash | Easy | [Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [ConcatenateAnArrayWithItself.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/ConcatenateAnArrayWithItself.sh)
 | Arrays in Bash | Easy | [Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem) | [DisplayAnElementOfAnArray.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/DisplayAnElementOfAnArray.sh)
 | Arrays in Bash | Easy | [Count the number of elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [CountTheNumberOfElementsInAnArray.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/CountTheNumberOfElementsInAnArray.sh)
+| Arrays in Bash | Medium | [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [RemoveTheFirstCapitalLetterFromEachElement.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/RemoveTheFirstCapitalLetterFromEachElement.sh)
+| Arrays in Bash | Hard | [Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [LonelyIntegerBash.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/LonelyIntegerBash.sh)

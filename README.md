@@ -35,7 +35,8 @@ Solutions to some problems on Hackerrank.
 | Functions | Medium | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [PermutationsOfStrings.c](LANGUAGE%20PROFICIENCY/C/Functions/PermutationsOfStrings.c)
 | Functions | Medium | [Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | [VariadicFunctionsInC.c](LANGUAGE%20PROFICIENCY/C/Functions/VariadicFunctionsInC.c)
 | Functions | Hard | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem) | [QueryingTheDocument.c](LANGUAGE%20PROFICIENCY/C/Functions/QueryingTheDocument.c)
-
+| Structs and Enums | Easy | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem) | [BoxesThroughATunnel.c](LANGUAGE%20PROFICIENCY/C/Structs%20and%20Enums/BoxesThroughATunnel.c)
+| Structs and Enums | Medium | [Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem) | [SmallTrianglesLargeTriangles.cpp](LANGUAGE%20PROFICIENCY/C/Structs%20and%20Enums/SmallTrianglesLargeTriangles.cpp)
 
 
 # C++
@@ -67,6 +68,7 @@ Solutions to some problems on Hackerrank.
 | Inheritance | Easy | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | [MultiLevelInheritance.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MultiLevelInheritance.cpp)
 | Inheritance | Medium | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | [AccessingInheritedFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/AccessingInheritedFunctions.cpp)
 
+
 # Java
 
 | Subdomain | Difficulty | Challenge | Solution |
@@ -94,6 +96,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Medium | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [JavaRegex2DuplicateWords.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex2DuplicateWords.java)
 | Strings | Easy | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [ValidUsernameRegularExpression.java](LANGUAGE%20PROFICIENCY/Java/Strings/ValidUsernameRegularExpression.java)
 | Strings | Medium | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [TagContentExtractor.java](LANGUAGE%20PROFICIENCY/Java/Strings/TagContentExtractor.java)
+| BigNumber | Easy | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigInteger.java)
 | BigNumber | Medium | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [JavaBigDecimal.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigDecimal.java)
 
 # Python

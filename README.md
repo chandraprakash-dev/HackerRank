@@ -67,6 +67,8 @@ Solutions to some problems on Hackerrank.
 | Inheritance | Easy | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | [RectangleArea.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/RectangleArea.cpp)
 | Inheritance | Easy | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | [MultiLevelInheritance.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MultiLevelInheritance.cpp)
 | Inheritance | Medium | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | [AccessingInheritedFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/AccessingInheritedFunctions.cpp)
+| Inheritance | Hard | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | [MagicSpells.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MagicSpells.cpp)
+
 
 
 # Java
@@ -96,8 +98,8 @@ Solutions to some problems on Hackerrank.
 | Strings | Medium | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [JavaRegex2DuplicateWords.java](LANGUAGE%20PROFICIENCY/Java/Strings/JavaRegex2DuplicateWords.java)
 | Strings | Easy | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [ValidUsernameRegularExpression.java](LANGUAGE%20PROFICIENCY/Java/Strings/ValidUsernameRegularExpression.java)
 | Strings | Medium | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [TagContentExtractor.java](LANGUAGE%20PROFICIENCY/Java/Strings/TagContentExtractor.java)
-| BigNumber | Easy | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigInteger.java)
 | BigNumber | Medium | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [JavaBigDecimal.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigDecimal.java)
+| BigNumber | Easy | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigInteger.java)
 
 # Python
 
@@ -130,7 +132,8 @@ Solutions to some problems on Hackerrank.
 | Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Capitalize.py](LANGUAGE%20PROFICIENCY/Python/Strings/Capitalize.py)
 | Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [TheMinionGame.py](LANGUAGE%20PROFICIENCY/Python/Strings/TheMinionGame.py)
 | Strings | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [MergeTheTools.py](LANGUAGE%20PROFICIENCY/Python/Strings/MergeTheTools.py)
-|Sets | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [IntroductionToSets.py](LANGUAGE%20PROFICIENCY/Python/Sets/IntroductionToSets.py)
+| Sets | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [IntroductionToSets.py](LANGUAGE%20PROFICIENCY/Python/Sets/IntroductionToSets.py)
+| Sets | Medium | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [NoIdea.py](LANGUAGE%20PROFICIENCY/Python/Sets/NoIdea.py)
 
 # Shell
 
@@ -189,3 +192,6 @@ Solutions to some problems on Hackerrank.
 | Arrays in Bash | Hard | [Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [LonelyIntegerBash.sh](LANGUAGE%20PROFICIENCY/Shell/Arrays%20in%20%20Bash/LonelyIntegerBash.sh)
 | Grep Sed Awk | Easy | ['Grep' - A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [GrepA.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/GrepA.sh)
 | Grep Sed Awk | Easy | ['Grep' - B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [GrepB.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/GrepB.sh)
+| Grep Sed Awk | Medium | ['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Grep#1.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/Grep#1.sh)
+| Grep Sed Awk | Medium | ['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Grep#2.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/Grep#2.sh)
+| Grep Sed Awk | Medium | ['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Grep#3.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/Grep#3.sh)

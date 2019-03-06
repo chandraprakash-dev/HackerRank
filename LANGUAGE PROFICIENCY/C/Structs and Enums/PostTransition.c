@@ -41,10 +41,42 @@ void print_all_packages(town t) {
 }
 
 void send_all_acceptable_packages(town* source, int source_office_index, town* target, int target_office_index) {	
+    post_office soffice = source -> offices[source_office_index];
+    post_office toffice = target -> offices[target_office_index];
+
+    int spackage_count = soffice.packages_count;
+    int tpackage_count = toffice.packages_count;
+
+    int min = toffice.min_weight;
+    int max = toffice.max_weight;
+
+    for(int i = 0; i < spackage_count; i ++) {
+        int weight = soffice.packages[i].weight;
+        if(weight >= min && weight <= max) {
+            toffice.packages = realloc(toffice.packages, (tpackage_count + 1) * sizeof(package));
+            toffice.packages[tpackage_count] = soffice.packages[i];
+            tpackage_count ++;
+
+            for(int j = i; j < spackage_count - 1; j ++) {
+                soffice.packages[j] = soffice.packages[j+1];
+            }
+            soffice.packages = realloc(soffice.packages, (spackage_count - 1)* sizeof(package));
+            spackage_count --;
+            i--;
+        }
+    }
 }
 
 town town_with_most_packages(town* towns, int towns_count) {
-    return  towns[0];
+    int index, max = 0;
+    for(int i = 0; i < towns_count; i ++) {
+        int sum = 0;
+        for(int j = 0; j < towns[i].offices_count; j ++) {
+            sum += towns[i].offices[j].packages_count;
+        }
+        if(sum > max) index = i;
+    }
+    return  towns[index];
 }
 
 town* find_town(town* towns, int towns_count, char* name) {

@@ -38,6 +38,7 @@ Solutions to some problems on Hackerrank.
 | Structs and Enums | Easy | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem) | [BoxesThroughATunnel.c](LANGUAGE%20PROFICIENCY/C/Structs%20and%20Enums/BoxesThroughATunnel.c)
 | Structs and Enums | Medium | [Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem) | [SmallTrianglesLargeTriangles.cpp](LANGUAGE%20PROFICIENCY/C/Structs%20and%20Enums/SmallTrianglesLargeTriangles.cpp)
 | Structs and Enums | Hard | [Post Transition](https://www.hackerrank.com/challenges/post-transition/problem) | [PostTransition.c](LANGUAGE%20PROFICIENCY/C/Structs%20and%20Enums/PostTransition.c)
+| Structs and Enums | Hard | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem) | [StructuringTheDocument.c](LANGUAGE%20PROFICIENCY/C/Structs%20and%20Enums/)
 
 
 # C++

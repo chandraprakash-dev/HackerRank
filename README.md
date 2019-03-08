@@ -102,6 +102,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Medium | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [TagContentExtractor.java](LANGUAGE%20PROFICIENCY/Java/Strings/TagContentExtractor.java)
 | BigNumber | Medium | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [JavaBigDecimal.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigDecimal.java)
 | BigNumber | Easy | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigInteger.java)
+| BigNumber | Easy | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [JavaPrimalityTest.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaPrimalityTest.java)
 
 # Python
 

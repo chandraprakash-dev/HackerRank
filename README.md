@@ -137,6 +137,7 @@ Solutions to some problems on Hackerrank.
 | Strings | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [MergeTheTools.py](LANGUAGE%20PROFICIENCY/Python/Strings/MergeTheTools.py)
 | Sets | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [IntroductionToSets.py](LANGUAGE%20PROFICIENCY/Python/Sets/IntroductionToSets.py)
 | Sets | Medium | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [NoIdea.py](LANGUAGE%20PROFICIENCY/Python/Sets/NoIdea.py)
+| Sets | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [SymmetricDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SymmetricDifference.py)
 
 # Shell
 

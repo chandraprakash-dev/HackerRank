@@ -138,6 +138,7 @@ Solutions to some problems on Hackerrank.
 | Sets | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [IntroductionToSets.py](LANGUAGE%20PROFICIENCY/Python/Sets/IntroductionToSets.py)
 | Sets | Medium | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [NoIdea.py](LANGUAGE%20PROFICIENCY/Python/Sets/NoIdea.py)
 | Sets | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [SymmetricDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SymmetricDifference.py)
+| Sets | Easy | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [SetDiscardRemovePop.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetDiscardRemovePop.py)
 
 # Shell
 

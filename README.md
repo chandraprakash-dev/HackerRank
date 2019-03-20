@@ -139,6 +139,14 @@ Solutions to some problems on Hackerrank.
 | Sets | Medium | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [NoIdea.py](LANGUAGE%20PROFICIENCY/Python/Sets/NoIdea.py)
 | Sets | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [SymmetricDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SymmetricDifference.py)
 | Sets | Easy | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [SetDiscardRemovePop.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetDiscardRemovePop.py)
+| Sets | Easy | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [SetUnion.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetUnion.py)
+| Sets | Easy | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [SetIntersection.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetIntersection.py)
+| Sets | Easy | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [SetDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetDifference.py)
+| Sets | Easy | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [SetSymmetricDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetSymmetricDifference.py)
+| Sets | Easy | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [SetMutations.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetMutations.py)
+| Sets | Easy | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [TheCaptiansRoom.py](LANGUAGE%20PROFICIENCY/Python/Sets/TheCaptiansRoom.py)
+| Sets | Easy | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [CheckSubset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckSubset.py)
+| Sets | Easy | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [CheckStrictSuperset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckStrictSuperset.py)
 
 # Shell
 

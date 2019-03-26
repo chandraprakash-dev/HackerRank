@@ -70,7 +70,7 @@ Solutions to some problems on Hackerrank.
 | Inheritance | Easy | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | [MultiLevelInheritance.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MultiLevelInheritance.cpp)
 | Inheritance | Medium | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | [AccessingInheritedFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/AccessingInheritedFunctions.cpp)
 | Inheritance | Hard | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | [MagicSpells.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MagicSpells.cpp)
-
+| STL | Easy | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | [VectorSort.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/VectorSort.cpp)
 
 
 # Java

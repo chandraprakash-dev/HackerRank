@@ -73,6 +73,10 @@ Solutions to some problems on Hackerrank.
 | STL | Easy | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | [VectorSort.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/VectorSort.cpp)
 | STL | Easy | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) | [VectorErase.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/VectorErase.cpp)
 | STL | Easy | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | [LowerBoundStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/LowerBoundStl.cpp)
+| STL | Easy | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem) | [SetsStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/SetsStl.cpp)
+| STL | Easy | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | [MapsStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/MapsStl.cpp)
+| STL | Easy | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | [PrintPretty.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/PrintPretty.cpp)
+| STL | Medium | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem) | [DequeStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/DequeStl.cpp)
 
 # Java
 

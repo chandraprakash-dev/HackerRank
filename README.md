@@ -77,6 +77,11 @@ Solutions to some problems on Hackerrank.
 | STL | Easy | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | [MapsStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/MapsStl.cpp)
 | STL | Easy | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | [PrintPretty.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/PrintPretty.cpp)
 | STL | Medium | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem) | [DequeStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/DequeStl.cpp)
+| Other Concepts | Easy | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem) | [ClassTemplates.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/ClassTemplates.cpp)
+| Other Concepts | Easy | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem) | [PreprocessorSolution.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/PreprocessorSolution.cpp)
+| Other Concepts | Medium | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem) | [OperatorOverloading.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/OperatorOverloading.cpp)
+| Other Concepts | Easy | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem) | [OverloadOperators.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/OverloadOperators.cpp)
+
 
 # Java
 

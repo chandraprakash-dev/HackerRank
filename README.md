@@ -82,6 +82,7 @@ Solutions to some problems on Hackerrank.
 | Other Concepts | Medium | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem) | [OperatorOverloading.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/OperatorOverloading.cpp)
 | Other Concepts | Easy | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem) | [OverloadOperators.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/OverloadOperators.cpp)
 | Other Concepts | Medium | [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops/problem) | [AttendingWorkshops.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/AttendingWorkshops.cpp)
+| Other Concepts | Medium | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | [ClassTemplateSpecialization.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/ClassTemplateSpecialization.cpp)
 
 
 # Java

@@ -116,6 +116,8 @@ Solutions to some problems on Hackerrank.
 | BigNumber | Easy | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigInteger.java)
 | BigNumber | Easy | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [JavaPrimalityTest.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaPrimalityTest.java)
 | Data Structures | Easy | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Java1DArray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/Java1DArray.java)
+| Data Structures | Easy | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Java2DArray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/Java2DArray.java)
+| Data Structures | Easy | [Java List]()
 
 # Python
 

@@ -117,7 +117,7 @@ Solutions to some problems on Hackerrank.
 | BigNumber | Easy | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [JavaPrimalityTest.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaPrimalityTest.java)
 | Data Structures | Easy | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Java1DArray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/Java1DArray.java)
 | Data Structures | Easy | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Java2DArray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/Java2DArray.java)
-| Data Structures | Easy | [Java List]()
+| Data Structures | Easy | [Java List](https://www.hackerrank.com/challenges/java-list/problem) | [JavaList.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/)
 
 # Python
 
@@ -162,6 +162,7 @@ Solutions to some problems on Hackerrank.
 | Sets | Easy | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [TheCaptiansRoom.py](LANGUAGE%20PROFICIENCY/Python/Sets/TheCaptiansRoom.py)
 | Sets | Easy | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [CheckSubset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckSubset.py)
 | Sets | Easy | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [CheckStrictSuperset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckStrictSuperset.py)
+| Math | Easy | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [PolarCoordinates.py](LANGUAGE%20PROFICIENCY/Python/Math/PolarCoordinates.py)
 
 # Shell
 

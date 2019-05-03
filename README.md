@@ -70,7 +70,19 @@ Solutions to some problems on Hackerrank.
 | Inheritance | Easy | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | [MultiLevelInheritance.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MultiLevelInheritance.cpp)
 | Inheritance | Medium | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem) | [AccessingInheritedFunctions.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/AccessingInheritedFunctions.cpp)
 | Inheritance | Hard | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | [MagicSpells.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Inheritance/MagicSpells.cpp)
-
+| STL | Easy | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | [VectorSort.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/VectorSort.cpp)
+| STL | Easy | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) | [VectorErase.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/VectorErase.cpp)
+| STL | Easy | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | [LowerBoundStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/LowerBoundStl.cpp)
+| STL | Easy | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem) | [SetsStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/SetsStl.cpp)
+| STL | Easy | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | [MapsStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/MapsStl.cpp)
+| STL | Easy | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | [PrintPretty.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/PrintPretty.cpp)
+| STL | Medium | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem) | [DequeStl.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/STL/DequeStl.cpp)
+| Other Concepts | Easy | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem) | [ClassTemplates.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/ClassTemplates.cpp)
+| Other Concepts | Easy | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem) | [PreprocessorSolution.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/PreprocessorSolution.cpp)
+| Other Concepts | Medium | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem) | [OperatorOverloading.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/OperatorOverloading.cpp)
+| Other Concepts | Easy | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem) | [OverloadOperators.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/OverloadOperators.cpp)
+| Other Concepts | Medium | [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops/problem) | [AttendingWorkshops.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/AttendingWorkshops.cpp)
+| Other Concepts | Medium | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | [ClassTemplateSpecialization.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/ClassTemplateSpecialization.cpp)
 
 
 # Java
@@ -103,6 +115,9 @@ Solutions to some problems on Hackerrank.
 | BigNumber | Medium | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [JavaBigDecimal.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigDecimal.java)
 | BigNumber | Easy | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaBigInteger.java)
 | BigNumber | Easy | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [JavaPrimalityTest.java](LANGUAGE%20PROFICIENCY/Java/BigNumber/JavaPrimalityTest.java)
+| Data Structures | Easy | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Java1DArray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/Java1DArray.java)
+| Data Structures | Easy | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Java2DArray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/Java2DArray.java)
+| Data Structures | Easy | [Java List](https://www.hackerrank.com/challenges/java-list/problem) | [JavaList.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/)
 
 # Python
 
@@ -139,6 +154,17 @@ Solutions to some problems on Hackerrank.
 | Sets | Medium | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [NoIdea.py](LANGUAGE%20PROFICIENCY/Python/Sets/NoIdea.py)
 | Sets | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [SymmetricDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SymmetricDifference.py)
 | Sets | Easy | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [SetAdd.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetAdd.py)
+| Sets | Easy | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [SetDiscardRemovePop.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetDiscardRemovePop.py)
+| Sets | Easy | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [SetUnion.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetUnion.py)
+| Sets | Easy | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [SetIntersection.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetIntersection.py)
+| Sets | Easy | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [SetDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetDifference.py)
+| Sets | Easy | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [SetSymmetricDifference.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetSymmetricDifference.py)
+| Sets | Easy | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [SetMutations.py](LANGUAGE%20PROFICIENCY/Python/Sets/SetMutations.py)
+| Sets | Easy | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [TheCaptiansRoom.py](LANGUAGE%20PROFICIENCY/Python/Sets/TheCaptiansRoom.py)
+| Sets | Easy | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [CheckSubset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckSubset.py)
+| Sets | Easy | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [CheckStrictSuperset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckStrictSuperset.py)
+| Math | Easy | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [PolarCoordinates.py](LANGUAGE%20PROFICIENCY/Python/Math/PolarCoordinates.py)
+>>>>>>> 51985c1e34e8638f4dacd52a3cfca23bade955ed
 
 # Shell
 

@@ -164,7 +164,7 @@ Solutions to some problems on Hackerrank.
 | Sets | Easy | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [CheckSubset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckSubset.py)
 | Sets | Easy | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [CheckStrictSuperset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckStrictSuperset.py)
 | Math | Easy | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [PolarCoordinates.py](LANGUAGE%20PROFICIENCY/Python/Math/PolarCoordinates.py)
->>>>>>> 51985c1e34e8638f4dacd52a3cfca23bade955ed
+| Math | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [FindAngleMBC.py](LANGUAGE%20PROFICIENCY/Python/Math/FindAngleMBC.py)
 
 # Shell
 

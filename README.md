@@ -165,6 +165,8 @@ Solutions to some problems on Hackerrank.
 | Sets | Easy | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [CheckStrictSuperset.py](LANGUAGE%20PROFICIENCY/Python/Sets/CheckStrictSuperset.py)
 | Math | Easy | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [PolarCoordinates.py](LANGUAGE%20PROFICIENCY/Python/Math/PolarCoordinates.py)
 | Math | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [FindAngleMBC.py](LANGUAGE%20PROFICIENCY/Python/Math/FindAngleMBC.py)
+| Math | Medium | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [TriangleQuest2.py](LANGUAGE%20PROFICIENCY/Python/Math/TriangleQuest2.py)
+| Math | Easy | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [ModDivmod.py](LANGUAGE%20PROFICIENCY/Python/Math/ModDivmod.py)
 
 # Shell
 

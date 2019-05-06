@@ -119,6 +119,7 @@ Solutions to some problems on Hackerrank.
 | Data Structures | Easy | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Java2DArray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/Java2DArray.java)
 | Data Structures | Easy | [Java List](https://www.hackerrank.com/challenges/java-list/problem) | [JavaList.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/JavaList.java)
 | Data Structures | Easy | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [JavaSubarray.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/JavaSubarray.java)
+| Data Structures | Easy | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) | [JavaArraylist.java](LANGUAGE%20PROFICIENCY/Java/Data%20Structures/JavaArraylist.java)
 
 # Python
 

@@ -255,3 +255,30 @@ Solutions to some problems on Hackerrank.
 
 # TUTORIALS
 # Javascript
+| Day | Difficulty | Challenge | Solution |
+| 0 | Easy | [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world) | [hello_world.js](TUTORIALS/Javascript/hello_world.js)
+| 0 | Easy | [Data Types](https://www.hackerrank.com/challenges/js10-data-types) | [data_types.js](TUTORIALS/Javascript/data_types.js)
+| 1 | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators) | [arithmetic_operators.js](TUTORIALS/Javascript/arithmetic_operators.js)
+| 1 | Easy | [Functions](https://www.hackerrank.com/challenges/js10-function) | [functions.js](TUTORIALS/Javascript/functions.js)
+| 1 | Easy | [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const) | [let_and_const.js](TUTORIALS/Javascript/let_and_const.js)
+| 2 | Easy | [If else](https://www.hackerrank.com/challenges/js10-if-else) | [if_else.js](TUTORIALS/Javascript/if_else.js)
+| 2 | Easy | [Switch](https://www.hackerrank.com/challenges/js10-switch) | [switch.js](TUTORIALS/Javascript/switch.js)
+| 2 | Easy | [Loops](https://www.hackerrank.com/challenges/js10-loops) | [loops.js](TUTORIALS/Javascript/loops.js)
+| 3 | Easy | [Arrays](https://www.hackerrank.com/challenges/js10-arrays) | [arrays.js](TUTORIALS/Javascript/arrays.js)
+| 3 | Easy | [Try Catch and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally) | [try_catch_and_finally.js](TUTORIALS/Javascript/try_catch_and_finally.js)
+| 3 | Easy | [Throw](https://www.hackerrank.com/challenges/js10-throw) | [throw.js](TUTORIALS/Javascript/throw.js)
+| 4 | Easy | [Create a rectangle object](https://www.hackerrank.com/challenges/js10-objects) | [create_a_rectangle_object.js](TUTORIALS/Javascript/create_a_rectangle_object.js)
+| 4 | Easy | [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects) | [count_objects.js](TUTORIALS/Javascript/count_objects.js)
+| 4 | Easy | [Classes](https://www.hackerrank.com/challenges/js10-class) | [classes.js](TUTORIALS/Javascript/classes.js)
+| 5 | Easy | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance) | [inheritance.js](TUTORIALS/Javascript/inheritance.js)
+| 5 | Easy | [Template literals](https://www.hackerrank.com/challenges/js10-template-literals) | [template_literals.js](TUTORIALS/Javascript/template_literals.js)
+| 5 | Easy | [Arrow functions](https://www.hackerrank.com/challenges/js10-arrows) | [arrow_functions.js](TUTORIALS/Javascript/arrow_functions.js)
+| 6 | Easy | [Bitwise operators](https://www.hackerrank.com/challenges/js10-bitwise) | [bitwise_operators.js](TUTORIALS/Javascript/bitwise_operators.js)
+| 6 | Easy | [Javascript dates](https://www.hackerrank.com/challenges/js10-date) | [javascript_dates.js](TUTORIALS/Javascript/javascript_dates.js)
+| 7 | Easy | [Regular expressions I](https://www.hackerrank.com/challenges/js10-regexp-1) | [regular_expressions_1.js](TUTORIALS/Javascript/regular_expressions_1.js)
+| 7 | Easy | [Regular expressions II](https://www.hackerrank.com/challenges/js10-regexp-2) | [regular_expressions_2.js](TUTORIALS/Javascript/regular_expressions_2.js)
+| 7 | Easy | [Regular expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | [regular_expressions_3.js](TUTORIALS/Javascript/regular_expressions_3.js)
+| 8 | Easy | [Create a button](https://www.hackerrank.com/challenges/js10-create-a-button) | [button.js](TUTORIALS/Javascript/button.js)
+| 8 | Easy | [Buttons container](https://www.hackerrank.com/challenges/js10-buttons-container) | [buttonsGrid.js](TUTORIALS/Javascript/buttonsGrid.js)
+| 9 | Medium | [Binary calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | [binaryCalculator.js](TUTORIALS/Javascript/binaryCalculator.js)
+

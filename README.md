@@ -8,6 +8,9 @@ Solutions to some problems on Hackerrank.
     * [Java](#java)
     * [Python](#python)
     * [Shell](#shell)
+  
+* [Tutorials](#tutorials)
+    * [10 Days of Javascript](#javascript)
 
 # LANGUAGE PROFICIENCY
 # C
@@ -249,3 +252,6 @@ Solutions to some problems on Hackerrank.
 | Grep Sed Awk | Medium | ['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [Awk2.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/Awk2.sh)
 | Grep Sed Awk | Medium | ['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [Awk3.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/Awk3.sh)
 | Grep Sed Awk | Medium | ['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Awk4.sh](LANGUAGE%20PROFICIENCY/Shell/Grep%20Sed%20Awk/Awk4.sh)
+
+# TUTORIALS
+# Javascript

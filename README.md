@@ -256,6 +256,7 @@ Solutions to some problems on Hackerrank.
 # TUTORIALS
 # Javascript
 | Day | Difficulty | Challenge | Solution |
+|:--:|:--:|:--:|:--:|
 | 0 | Easy | [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world) | [hello_world.js](TUTORIALS/Javascript/hello_world.js)
 | 0 | Easy | [Data Types](https://www.hackerrank.com/challenges/js10-data-types) | [data_types.js](TUTORIALS/Javascript/data_types.js)
 | 1 | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators) | [arithmetic_operators.js](TUTORIALS/Javascript/arithmetic_operators.js)

@@ -172,13 +172,13 @@ Solutions to some problems on Hackerrank.
 | Math | Easy | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [IntegersComeInAllSizes.py](LANGUAGE%20PROFICIENCY/Python/Math/IntegersComeInAllSizes.py)
 | Math | Medium | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [TriangleQuest.py](LANGUAGE%20PROFICIENCY/Python/Math/TriangleQuest.py)
 | Math | Medium | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [TriangleQuest2.py](LANGUAGE%20PROFICIENCY/Python/Math/TriangleQuest2.py)
-| Itertools | Easy | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | 
-| Itertools | Easy | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) |
-| Itertools | Easy | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) |
-| Itertools | Easy | [itertools.combinations() with replacement](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) |
-| Itertools | Medium | [compress the string](https://www.hackerrank.com/challenges/compress-the-string/problem) |
-| Itertools | Medium | [iterables and iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) |
-| itertools | Hard | [maximize it](https://www.hackerrank.com/challenges/maximize-it/problem) | 
+| Itertools | Easy | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [itertools_product.py](LANGUAGE%20PROFICIENCY/Python/Itertools/itertools_product.py)
+| Itertools | Easy | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [itertools_permutations.py](LANGUAGE%20PROFICIENCY/Python/Itertools/itertools_permutations.py)
+| Itertools | Easy | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [itertools_combinations.py](LANGUAGE%20PROFICIENCY/Python/Itertools/itertools_combinations.py)
+| Itertools | Easy | [itertools.combinations() with replacement](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [itertools_combinations_with_replacement.py](LANGUAGE%20PROFICIENCY/Python/Itertools/itertools_combinations_with_replacement.py)
+| Itertools | Medium | [compress the string](https://www.hackerrank.com/challenges/compress-the-string/problem) | [compress_the_string.py](LANGUAGE%20PROFICIENCY/Python/Itertools/compress_the_string.py)
+| Itertools | Medium | [iterables and iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [iterables_and_iterators.py](LANGUAGE%20PROFICIENCY/Python/Itertools/iterables_and_iterators.py)
+| itertools | Hard | [maximize it](https://www.hackerrank.com/challenges/maximize-it/problem) | [maximize_it.py](LANGUAGE%20PROFICIENCY/Python/Itertools/maximize_it.py)
 
 # Shell
 
